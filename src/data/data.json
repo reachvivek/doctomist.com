@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "Doctomist",
+        "paragraph": "Telemedicine network for doctors, loved by patients."
+
+    },
+    "About": {
+        "paragraph": "Doctomist is India’s leading healthcare technology solutions provider offering healthtech solutions like Telemedicine for Patients and IoMT services (Internet of Medical Things) to assess patients’s symptoms online and direct them to the appropriate healthcare pathway, giving the patients 24/7 access access to their doctors.",
+        "Why": [
+            "Fastest Doctor Response",
+            "Doctors 24/7",
+            "Private and Secure Consultation",
+            "Quality and Trust"
+        ],
+        "Why2": [
+            "10000+ Patients Treated",
+            "500+ Specialist Doctors",
+            "ISO 27001 Certified",
+            "256 bit encryption"
+        ]
+    },
+    "Benefits": [{
+            "icon": "fa fa-inr",
+            "name": "Lower Costs",
+            "text": "Reduced costs and improved accessibility. Cisco global survey found that, 74% of patients prefer easy access to healthcare services over in-person interactions with providers."
+        },
+        {
+            "icon": "fa fa-wheelchair",
+            "name": "More Convenient",
+            "text": "In today’s healthcare world, convenience is key. Patients who live in remote locations, or who are homebound or just can’t take off time from work, can access care virtually."
+        },
+        {
+            "icon": "fa fa-line-chart",
+            "name": "Connect with more patients",
+            "text": "Our Telemedicine solution connects more patients with providers than ever before offering the patients simple, on-demand care – without wasting time and cost of in-person visits.."
+        },
+        {
+            "icon": "fa fa-undo",
+            "name": "Reducing no-shows",
+            "text": "Boosts the ROI by turning on-call hours into billable time, attracting new patients, reducing no-shows, and even reducing overhead for physicians who decide to switch to a flexible work-from-home model for part of the week."
+        },
+        {
+            "icon": "fa fa-users",
+            "name": "Specialists & Referring Physician",
+            "text": "With telemedicine, patients living in rural or remote areas can avail quicker and more convenient specialist access. You can refer your patients to the specific physicians they need, regardless of location."
+        },
+        {
+            "icon": "fa fa-thumbs-up",
+            "name": "Better Patient Care Quality",
+            "text": "Telemedicine offers improved timeliness of care. This is critical to quality patient care. Patients can address healthcare issues quickly with real-time urgent care consultations and learn about treatment options within minutes."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpeg",
+            "text": "\"Online tools like Doctomist will help reduce demand on services, offer better access for patients seeking care, and transform the experience for GPs.\"",
+            "name": "Dr. Tagarya, M.B.B.S."
+        },
+        {
+            "img": "img/testimonials/02.jpeg",
+            "text": "\"Patients have been excited to sign up to Doctomist and to be involved in refining the dispositions from the out-set as part of the development team.\"",
+            "name": "Dr. Ikram, M.D. Mellon.ai"
+        },
+        {
+            "img": "img/testimonials/03.jpeg",
+            "text": "\"I was able to consult patients from home during the pandemic situation using Doctomist's Telemedicine App. It has paved way for revolutionising healthcare.\"",
+            "name": "Dr. Rohini, ENT, MBA, IIM"
+        },
+        {
+            "img": "img/testimonials/04.jpeg",
+            "text": "\"I was able to get an appointment done the very next day.\"",
+            "name": "Radhika Awasthi, Patient"
+        },
+        {
+            "img": "img/testimonials/05.png",
+            "text": "\"This is really a great innovation for developing country like India where healthcare access is of significant importance\"",
+            "name": "Koyena, Patient"
+        },
+        {
+            "img": "img/testimonials/06.jpeg",
+            "text": "\"i found the symptom checker easy to use and quite speedy.\"",
+            "name": "Shubhangi, CS Undergrad"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/akshith.jpeg",
+            "name": "Akshith Chittiveli",
+            "job": "CEO & Founder"
+        },
+        {
+            "img": "img/team/vivek.png",
+            "name": "Vivek Kumar Singh",
+            "job": "CTO & Founder"
+        }, {
+            "img": "img/team/shiva.jpeg",
+            "name": "Shiva Prasad",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/prithu.png",
+            "name": "Prithu Singh",
+            "job": "Chief Financial Officer"
+        }
+    ],
+    "Contact": {
+        "address": "5th Floor, R.S Tower, Jamshedpur, IN 831011",
+        "phone": "+91 6380823262",
+        "email": "support@doctomist.com",
+        "linkedin": "https://www.linkedin.com/company/doctomist",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "img": "img/features/video.png",
+            "title": "Video Consultation",
+            "text": "Video Consultations help you manage your time effectively while allowing you to see more patients."
+        },
+        {
+            "img": "img/features/chat.png",
+            "title": "Chat with Doctor",
+            "text": "Chat with a doctor privately. Talk to doctors online about your issues & get answers."
+        },
+        {
+            "img": "img/features/prescription.png",
+            "title": "Prescriptions Simplified",
+            "text": "All the patient's appointments and prescriptions shall be mapped against their mobile number."
+        },
+        {
+            "img": "img/features/book.png",
+            "title": "Hospital At Your Fingertips",
+            "text": "Finding top rated doctors, booking lab tests, locating hospitals to ordering meds from a Pharmacy. All done!"
+        }
+    ]
+}
